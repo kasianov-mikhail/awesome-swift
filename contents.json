@@ -8529,6 +8529,13 @@
       "tags":["swift", "game-engine", "bindings"]
     },
     {
+      "title": "Scout",
+      "category": "analytics",
+      "description": "Production-grade logging SDK for iOS apps using CloudKit as a backend.",
+      "homepage": "https://github.com/kasianov-mikhail/scout",
+      "tags": ["analytics", "swift", "iOS"]
+    },
+    {
       "title": "Swiftly",
       "category": "dependency-managers",
       "description": "Swift CLI toolchain installer to install different versions of Swift.",
@@ -8547,17 +8554,6 @@
       "description": "Codable extensions using Swift macro.",
       "homepage": "https://github.com/reers/ReerCodable",
       "tags":["swift", "codable"]
-    },
-    {
-      "title": "Scout",
-      "category": "analytics",
-      "description": "Production-grade logging SDK for iOS apps using CloudKit as a backend.",
-      "homepage": "https://github.com/kasianov-mikhail/scout",
-      "tags": [
-        "analytics",
-        "swift",
-        "iOS"
-      ]
     }
   ]
 }
